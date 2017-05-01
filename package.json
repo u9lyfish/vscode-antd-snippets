@@ -1,7 +1,7 @@
 {
   "name": "vscode-antd-snippets",
   "description": "Code snippets for React.js development with Ant Design components in ES6 syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Ant Design Code Snippets",
   "publisher": "u9lyfish",
   "icon": "images/antd-icon.svg",
