@@ -1,0 +1,42 @@
+{
+  "name": "vscode-antd-snippets",
+  "description": "Code snippets for React.js development with Ant Design components in ES6 syntax",
+  "version": "1.0.0",
+  "displayName": "Ant Design Code Snippets",
+  "publisher": "u9lyfish",
+  "icon": "images/antd-icon.svg",
+  "galleryBanner": {
+    "theme": "light"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u9lyfish/vscode-antd-snippets"
+  },
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+	  {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+	  },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
